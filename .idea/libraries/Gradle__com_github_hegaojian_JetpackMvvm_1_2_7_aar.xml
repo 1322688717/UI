@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.hegaojian:JetpackMvvm:1.2.7@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/8f1ed69c0701522d9da2c17ae69084b8/transformed/JetpackMvvm-1.2.7/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/8f1ed69c0701522d9da2c17ae69084b8/transformed/JetpackMvvm-1.2.7/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/8f1ed69c0701522d9da2c17ae69084b8/transformed/JetpackMvvm-1.2.7/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/8f1ed69c0701522d9da2c17ae69084b8/transformed/JetpackMvvm-1.2.7/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.hegaojian/JetpackMvvm/1.2.7/ebe3353f466088c4bce1ef494d2dbb7eda8648c7/JetpackMvvm-1.2.7-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
