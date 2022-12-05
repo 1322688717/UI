@@ -1,12 +1,12 @@
 <component name="libraryTable">
   <library name="Gradle: com.github.hegaojian:JetpackMvvm:1.2.7@aar">
     <ANNOTATIONS>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/8f1ed69c0701522d9da2c17ae69084b8/transformed/JetpackMvvm-1.2.7/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/c0cac59c9d3edf4fe11ed52a071c0154/transformed/JetpackMvvm-1.2.7/annotations.zip!/" />
     </ANNOTATIONS>
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/8f1ed69c0701522d9da2c17ae69084b8/transformed/JetpackMvvm-1.2.7/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/8f1ed69c0701522d9da2c17ae69084b8/transformed/JetpackMvvm-1.2.7/res" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/8f1ed69c0701522d9da2c17ae69084b8/transformed/JetpackMvvm-1.2.7/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/c0cac59c9d3edf4fe11ed52a071c0154/transformed/JetpackMvvm-1.2.7/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/c0cac59c9d3edf4fe11ed52a071c0154/transformed/JetpackMvvm-1.2.7/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/c0cac59c9d3edf4fe11ed52a071c0154/transformed/JetpackMvvm-1.2.7/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

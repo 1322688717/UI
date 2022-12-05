@@ -1,9 +1,9 @@
 <component name="libraryTable">
   <library name="Gradle: com.guolindev.permissionx:permissionx:1.7.1@aar">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/07aa756b4696ac98a792bd1f33bb4bae/transformed/permissionx-1.7.1/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/07aa756b4696ac98a792bd1f33bb4bae/transformed/permissionx-1.7.1/res" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/07aa756b4696ac98a792bd1f33bb4bae/transformed/permissionx-1.7.1/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/9862c0f1a6448b9b0b95a6892152b579/transformed/permissionx-1.7.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/9862c0f1a6448b9b0b95a6892152b579/transformed/permissionx-1.7.1/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/9862c0f1a6448b9b0b95a6892152b579/transformed/permissionx-1.7.1/res" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.guolindev.permissionx/permissionx/1.7.1/874fc52db9305f84ae23d38b87e9d619d28afaad/permissionx-1.7.1-javadoc.jar!/" />

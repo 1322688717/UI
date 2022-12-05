@@ -1,9 +1,10 @@
 <component name="libraryTable">
   <library name="Gradle: com.geyifeng.immersionbar:immersionbar-ktx:3.2.2@aar">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/bdb331c530a7344051994fe92e99fa28/transformed/immersionbar-ktx-3.2.2/jars/classes.jar!/" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-3/bdb331c530a7344051994fe92e99fa28/transformed/immersionbar-ktx-3.2.2/res" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/bdb331c530a7344051994fe92e99fa28/transformed/immersionbar-ktx-3.2.2/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/746c36dbf229976eedf166f16e127a3a/transformed/immersionbar-ktx-3.2.2/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/746c36dbf229976eedf166f16e127a3a/transformed/immersionbar-ktx-3.2.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/746c36dbf229976eedf166f16e127a3a/transformed/immersionbar-ktx-3.2.2/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
